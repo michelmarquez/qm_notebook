@@ -1,4 +1,2 @@
 numpy==1.18.5
 qiskit==0.23.3
-qiskit.quantum_info
-qiskit.visualization
