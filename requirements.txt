@@ -23,6 +23,7 @@ scipy==1.9.3
     # via seaborn
 
 
-
+pycodestyle==2.8.0
+GitPython>=3.1.30
 
 
