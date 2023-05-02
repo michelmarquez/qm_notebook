@@ -50,6 +50,6 @@ six==1.16.0
     # via python-dateutil
 
 
-qiskit==0.23.3
+
 
 
